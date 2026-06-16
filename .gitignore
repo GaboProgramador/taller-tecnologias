@@ -1,0 +1,11 @@
+# Ignorar node_modules en cualquier parte del proyecto (tanto en frontend como en backend)
+node_modules/
+
+# Ignorar archivos temporales y de caché de Angular
+.angular/
+dist/
+tmp/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
